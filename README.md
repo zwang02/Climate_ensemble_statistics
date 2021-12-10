@@ -1,6 +1,6 @@
 # NCAR Internal Variability Package
 
-This repository is created with the goal of testing and building out a package for the NCAR Technical Note on Internal Variability. The publication is available [here](https://opensky.ucar.edu/islandora/object/technotes%3A591). 
+The NCAR-iv package aims to provide statistical tools for identifying distributional difference in single climate runs compared to an initial state climate model ensemble. All the analysis are designed for annually, globally averaged datasets. The original model used is CESM1 and users need to adjust the variable list, simulation list before applying the code to their own model. The publication is available [here](https://opensky.ucar.edu/islandora/object/technotes%3A591). 
 
 
 This is an on-going project and is being actively maintained. 
