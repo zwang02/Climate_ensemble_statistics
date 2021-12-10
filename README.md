@@ -12,4 +12,3 @@ This is an on-going project and is being actively maintained.
 
 Functions to write:
 - lib.input
-- drop_year
